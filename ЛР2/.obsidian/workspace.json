@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "05ff1888750667b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5afd9634752844c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a62f79f11326bf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тоц Л. А. ИВТ-2 БД ЛР2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тоц Л. А. ИВТ-2 БД ЛР2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23b20b5369ca379e",
+    "type": "split",
+    "children": [
+      {
+        "id": "40a278e2917316f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4144584c0405a47d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "9ebf6700ae30983b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "b843dbfa90ef33ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "758691047717a9c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f037714c5772e9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "673f76d225a01647",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Тоц Л. А. ИВТ-2 БД ЛР2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Тоц Л. А. ИВТ-2 БД ЛР2"
+            }
+          },
+          {
+            "id": "9a892124b33afcaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Тоц Л. А. ИВТ-2 БД ЛР2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Тоц Л. А. ИВТ-2 БД ЛР2"
+            }
+          },
+          {
+            "id": "3a2a28ae7d57a432",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e49cb28f6debca8b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "4b2f9fbc0c3f5572",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Тоц Л. А. ИВТ-2 БД ЛР2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Тоц Л. А. ИВТ-2 БД ЛР2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "1a62f79f11326bf5",
+  "lastOpenFiles": [
+    "Тоц Л. А. ИВТ-2 БД ЛР2.pdf",
+    "Pasted image 20260217030046.png",
+    "задание2.mwb.12bb2e96",
+    "задание2.sql",
+    "задание2.png",
+    "задание2.mwb.12a7d77a",
+    "задание2.mwb.1278ba52",
+    "задание2.mwb.bak",
+    "задание2.mwb",
+    "задание2.mwb.12760311",
+    "задание1.sql",
+    "задание1.png",
+    "Тоц Л. А. ИВТ-2 БД ЛР2.md"
+  ]
+}
